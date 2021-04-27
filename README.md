@@ -14,5 +14,5 @@ To Run this Project :-
  1: Open a new terminal and enter npm init.
  2: install the dependency nodemon using command npm i nodemon
  3: install the dependency socket.io using command npm i socket.io
- 4: enter npm ./index.js/
+ 4: enter nodemon ./index.js/
 5: go live from visual code and to call the other user to room open a new tab and hit localhost:5500
